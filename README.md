@@ -1,4 +1,4 @@
-# Peer Proof – clickable prototype v2
+# Peer Proof – clickable prototype 
 
 Clickable mobile prototype for Peer Proof: a weekly "recipe from shops like yours" flow for made-to-order shops, from discovery in LINE OA through to proving the result.
 
